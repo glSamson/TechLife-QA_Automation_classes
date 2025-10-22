@@ -1,0 +1,15 @@
+{
+  "name": "aula10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luca",
+  "license": "ISC",
+  "description": "Exercices made for 10th class - Cypress",
+  "devDependencies": {
+    "cypress": "^15.4.0"
+  }
+}
